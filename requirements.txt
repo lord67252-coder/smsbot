@@ -1,2 +1,3 @@
 pytelegrambotapi==4.12.0
 pyrebase4==4.7.1
+setuptools
